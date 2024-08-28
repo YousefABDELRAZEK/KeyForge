@@ -24,3 +24,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/YousefABDELRAZEK/keyforge.git
 
+## 📦 Installation
+
+Navigate to the project directory:
+
+```bash
+cd keyforge
